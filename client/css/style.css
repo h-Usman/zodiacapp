@@ -1,9 +1,19 @@
 body{
 	background-color: pink;
+	font-family: 'Lobster', cursive;
+
 }
 img{
 	width: 300px;
 }
-h1{
+h1, h2, h6{
 	text-align: center;
+}
+img{
+	width: 100%!important;
+}
+p{
+	font-family: 'Dancing Script', cursive!important;
+	font-size: 1.1em!important;
+	text-align: justify;
 }
