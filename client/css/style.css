@@ -4,9 +4,20 @@ body{
 
 }
 img{
-	width: 300px;
+	width: 100%;
+	max-width: 50%;
 }
-h1, h2, h6{
+h3{
+padding-top: 25px;
+}
+h2{
+	display: inline-block;
+}
+p#date{
+	    display: inline-block;
+    float: right;
+}
+h1, h2, h3, h6{
 	text-align: center;
 }
 img{
@@ -20,4 +31,12 @@ p{
 .main-body{
 margin-top: 50px;
 margin-bottom: 50px;	
+}
+.img-parent{
+	width: 100%;
+	max-width: 100%;
+	text-align: center!important;
+}
+.media{
+	justify-content: center;
 }
