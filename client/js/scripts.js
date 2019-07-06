@@ -66,7 +66,7 @@ var zodiacs = [
 },
 {
 	name: "Pieces",
-	image: "images/pieces.png",
+	image: "images/pieces.jpg",
 	month: "Februry 19 to 20 March",
 	description: "Aquarius-born are shy and quiet , but on the other hand they can be eccentric and energetic. However, in both cases, they are deep thinkers and highly intellectual people who love helping others. They are able to see without prejudice, on both sides, which makes them people who can easily solve problems.Although they can easily adapt to the energy that surrounds them, Aquarius-born have a deep need to be some time alone and away from everything, in order to restore power. People born under the Aquarius sign, look at the world as a place full of possibilities.",
 }
