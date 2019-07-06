@@ -37,6 +37,10 @@ margin-bottom: 50px;
 	max-width: 100%;
 	text-align: center!important;
 }
+.img-parent img{
+	max-width: 100%!important;
+}
 .media{
 	justify-content: center;
 }
+
